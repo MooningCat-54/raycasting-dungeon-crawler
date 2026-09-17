@@ -22,6 +22,10 @@ DDA, on the other hand, jumps directly from one grid grid-line to the next. In t
 
 For more details on the algorithmic breakdown, see: https://lodev.org/cgtutor/raycasting.html
 
+#### Third-Party Libraries & Dependencies:
+
+* **[Raylib](https://www.raylib.com/):** Used for window creation, user input handling, and 2D drawing primitives.
+
 ---
 
 ### Limitations & Known Issues
