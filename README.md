@@ -26,6 +26,8 @@ For more details on the algorithmic breakdown, see: https://lodev.org/cgtutor/ra
 
 ### Limitations & Known Issues
 
+> **Note on Code Comments:** The comments throughout the codebase are currently written in Turkish (my native language). As the engine and systems expanded, keeping personal technical notes in my mother tongue allowed me to understand, debug, and iterate on complex math and rendering logic much faster during active development. These comments will be refactored into English in future iterations as the project matures toward an itch.io release.
+
 While DDA raycasting itself is a well-documented technique, layering an atmospheric dynamic torch lighting effect on top was challenging. Although I experimented with various AI-assisted formulas, I intentionally chose to leave certain implementations in their current state so I could fully understand and own the codebase:
 
 * **Floor & Ceiling Reflections:** The current vertical gradient implementation creates a slight shiny/reflective floor look rather than a flat matte texture.
