@@ -1,5 +1,5 @@
 # Retro Raycasting Dungeon Crawler
-#### Video Demo: <URL HERE>
+#### Video Demo: https://youtu.be/61taDXTyrF8
 #### Description:
 
 This project is an old-school dungeon crawler maze escape game featuring hand-drawn pixel art and a turn-based combat system. The player spawns at a designated point on a map, navigates through narrow corridors, encounters enemies, and attempts to find the exit gate. (Though, as the project is still under active development, some mechanics are still being refined.)
